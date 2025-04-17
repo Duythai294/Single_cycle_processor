@@ -1,0 +1,67 @@
+# Compile of ALU.v was successful.
+# Compile of ALU_Decoder.v was successful.
+# Compile of ALU_Decoder_Tb.v was successful.
+# Compile of ALU_Tb.v was successful.
+# Compile of Control_Unit_Top.v was successful.
+# Compile of Control_Unit_Top_Tb.v was successful.
+# Compile of Data_memory.v was successful.
+# Compile of Data_memory_Tb.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Instruction_Memory_Tb.v was successful.
+# Compile of Main_Decoder.v was successful.
+# Compile of Main_Decoder_Tb.v was successful.
+# Compile of Mux.v was successful.
+# Compile of Mux_Tb.v was successful.
+# Compile of PC.v was successful.
+# Compile of PC_Adder.v was successful.
+# Compile of PC_Adder_Tb.v was successful.
+# Compile of PC_Tb.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of Register_File_Tb.v was successful.
+# Compile of Sign_Extend.v was successful.
+# Compile of Sign_Extend_Tb.v was successful.
+# Compile of Single_Cycle_Top.v was successful.
+# Compile of Single_Cycle_Top_Tb.v was successful.
+# 24 compiles, 0 failed with no errors.
+# vsim work.Single_Cycle_Top_Tb 
+# Start time: 23:02:02 on Apr 17,2025
+# Loading work.Single_Cycle_Top_Tb
+# Loading work.Single_Cycle_Top
+# Loading work.PC_Module
+# Loading work.PC_Adder
+# Loading work.Instruction_Memory
+# Loading work.Register_File
+# Loading work.Sign_Extend
+# Loading work.Mux
+# Loading work.ALU
+# Loading work.Control_Unit_Top
+# Loading work.Main_Decoder
+# Loading work.ALU_Decoder
+# Loading work.Data_Memory
+# ** Note: $finish    : C:/Users/DELL/Downloads/RISC--V-Processor-main/Single_Cycle_Top_Tb.v(29)
+#    Time: 1150 ps  Iteration: 0  Instance: /Single_Cycle_Top_Tb
+# 1
+# Break in Module Single_Cycle_Top_Tb at C:/Users/DELL/Downloads/RISC--V-Processor-main/Single_Cycle_Top_Tb.v line 29
+# End time: 23:04:47 on Apr 17,2025, Elapsed time: 0:02:45
+# Errors: 0, Warnings: 6
+# vsim work.Single_Cycle_Top_Tb 
+# Start time: 23:04:47 on Apr 17,2025
+# Loading work.Single_Cycle_Top_Tb
+# Loading work.Single_Cycle_Top
+# Loading work.PC_Module
+# Loading work.PC_Adder
+# Loading work.Instruction_Memory
+# Loading work.Register_File
+# Loading work.Sign_Extend
+# Loading work.Mux
+# Loading work.ALU
+# Loading work.Control_Unit_Top
+# Loading work.Main_Decoder
+# Loading work.ALU_Decoder
+# Loading work.Data_Memory
+# ** Note: $finish    : C:/Users/DELL/Downloads/RISC--V-Processor-main/Single_Cycle_Top_Tb.v(29)
+#    Time: 1150 ps  Iteration: 0  Instance: /Single_Cycle_Top_Tb
+# 1
+# Break in Module Single_Cycle_Top_Tb at C:/Users/DELL/Downloads/RISC--V-Processor-main/Single_Cycle_Top_Tb.v line 29
+# End time: 23:12:29 on Apr 17,2025, Elapsed time: 0:07:42
+# Errors: 0, Warnings: 1

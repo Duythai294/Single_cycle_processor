@@ -1,0 +1,182 @@
+C:/Users/DELL/Downloads/RISC--V-Processor-main/PC_Adder_Tb.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/PC_Adder_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC_Adder_tb
+
+Top level modules:
+	PC_Adder_tb
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Mux_Tb.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Mux_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_tb
+
+Top level modules:
+	Mux_tb
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/ALU_Decoder.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/ALU_Decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_Decoder
+
+Top level modules:
+	ALU_Decoder
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/ALU_Tb.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/ALU_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Data_memory_Tb.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Data_memory_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_Memory_tb
+
+Top level modules:
+	Data_Memory_tb
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Single_Cycle_Top_Tb.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Single_Cycle_Top_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Single_Cycle_Top_Tb
+
+Top level modules:
+	Single_Cycle_Top_Tb
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Sign_Extend.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Sign_Extend.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sign_Extend
+
+Top level modules:
+	Sign_Extend
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Register_File_Tb.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Register_File_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register_File_tb
+
+Top level modules:
+	Register_File_tb
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Control_Unit_Top.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Control_Unit_Top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_Decoder
+-- Compiling module Main_Decoder
+-- Compiling module Control_Unit_Top
+
+Top level modules:
+	Control_Unit_Top
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Instruction_Memory.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Instruction_Memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Main_Decoder.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Main_Decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Main_Decoder
+
+Top level modules:
+	Main_Decoder
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Single_Cycle_Top.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Single_Cycle_Top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC_Module
+-- Compiling module Instruction_Memory
+-- Compiling module Register_File
+-- Compiling module Sign_Extend
+-- Compiling module ALU
+-- Compiling module ALU_Decoder
+-- Compiling module Main_Decoder
+-- Compiling module Control_Unit_Top
+-- Compiling module Data_Memory
+-- Compiling module PC_Adder
+-- Compiling module Mux
+-- Compiling module Single_Cycle_Top
+
+Top level modules:
+	Single_Cycle_Top
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Sign_Extend_Tb.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Sign_Extend_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sign_Extend_tb
+
+Top level modules:
+	Sign_Extend_tb
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Control_Unit_Top_Tb.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Control_Unit_Top_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Control_Unit_Top_tb
+
+Top level modules:
+	Control_Unit_Top_tb
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Instruction_Memory_Tb.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Instruction_Memory_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Instruction_Memory_tb
+
+Top level modules:
+	Instruction_Memory_tb
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Main_Decoder_Tb.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Main_Decoder_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Main_Decoder_tb
+
+Top level modules:
+	Main_Decoder_tb
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/PC_Tb.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/PC_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC_Module_tb
+
+Top level modules:
+	PC_Module_tb
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/PC_Adder.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/PC_Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC_Adder
+
+Top level modules:
+	PC_Adder
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Mux.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux
+
+Top level modules:
+	Mux
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/ALU.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Data_memory.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Data_memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/PC.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC_Module
+
+Top level modules:
+	PC_Module
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/Register_File.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/Register_File.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register_File
+
+Top level modules:
+	Register_File
+
+} {} {}} C:/Users/DELL/Downloads/RISC--V-Processor-main/ALU_Decoder_Tb.v {1 {vlog -work work -stats=none C:/Users/DELL/Downloads/RISC--V-Processor-main/ALU_Decoder_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_Decoder_tb
+
+Top level modules:
+	ALU_Decoder_tb
+
+} {} {}}
